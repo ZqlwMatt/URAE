@@ -6,6 +6,7 @@
 <a href="https://arxiv.org/abs/2412.16112"><img src="https://img.shields.io/badge/arXiv-2412.16112-A42C25.svg" alt="arXiv"></a> 
 <a href="https://huggingface.co/Huage001/URAE"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/spaces/Yuanshi/URAE"><img src="https://img.shields.io/badge/🤗_HuggingFace-Space-ffbd45.svg" alt="HuggingFace"></a>
+<a href="https://huggingface.co/spaces/Yuanshi/URAE_dev"><img src="https://img.shields.io/badge/🤗_HuggingFace-Space-ffbd45.svg" alt="HuggingFace"></a>
 
 > ***U*ltra-*R*esolution *A*daptation with *E*ase**
 > <br>
@@ -74,7 +75,10 @@ Text-to-image diffusion models have achieved remarkable progress in recent years
   ```
   ⚠️ **FLUX requires at least 28GB of GPU memory to operate at a 2K resolution.** A 48GB GPU is recommended for the full functionalities of URAE, including both 2K and 4K. We are actively integrating model lightweighting strategies into URAE! If you have a good idea, feel free to submit a PR!
 
-* Do not want to run the codes? No worry! Try the model on [Huggingface Space](https://huggingface.co/spaces/Yuanshi/URAE)!
+* Do not want to run the codes? No worry! Try the model on Huggingface Space!
+  
+  * [URAE w. FLUX1.schnell](https://huggingface.co/spaces/Yuanshi/URAE) (Faster)
+  * [URAE w. FLUX1.dev](https://huggingface.co/spaces/Yuanshi/URAE_dev) (Higher Quality)
 
 ## Installation
 

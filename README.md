@@ -8,7 +8,6 @@
 <a href="https://huggingface.co/Huage001/URAE"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/spaces/Yuanshi/URAE"><img src="https://img.shields.io/badge/🤗_HuggingFace-Space-ffbd45.svg" alt="HuggingFace"></a>
 
-
 > ***U*ltra-*R*esolution *A*daptation with *E*ase**
 > <br>
 > [Ruonan Yu*](https://scholar.google.com/citations?user=UHP95egAAAAJ&hl=en), 

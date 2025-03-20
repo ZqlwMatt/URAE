@@ -39,6 +39,7 @@ Text-to-image diffusion models have achieved remarkable progress in recent years
 
   ``` bash
   git clone https://github.com/Huage001/URAE.git
+  cd URAE
   ```
 
 * **You only need minimal modifications!**
@@ -81,6 +82,7 @@ Text-to-image diffusion models have achieved remarkable progress in recent years
 
   ``` bash
   git clone https://github.com/Huage001/URAE.git
+  cd URAE
   ```
   
 * URAE has been tested on ``torch==2.5.1`` and ``diffusers==0.31.0``, but it should also be compatible to similar variants. You can set up an new environment if you wish and install packages listed in ``requirements.txt``:

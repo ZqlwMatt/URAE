@@ -1,6 +1,5 @@
 # URAE: ~~Your Free FLUX Pro Ultra~~
 
-
 <img src='teaser.jpg' width='100%' />
 <br>
 
@@ -18,8 +17,6 @@
 > <br>
 > [xML Lab](https://sites.google.com/view/xml-nus), National University of Singapore
 > <br>
-
-![](./assets/teaser.png)
 
 ## 🪶Features
 

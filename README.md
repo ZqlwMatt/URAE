@@ -3,7 +3,7 @@
 <img src='teaser.jpg' width='100%' />
 <br>
 
-<a href="https://arxiv.org/abs/2503.16322"><img src="https://img.shields.io/badge/arXiv-2412.16112-A42C25.svg" alt="arXiv"></a> 
+<a href="https://arxiv.org/abs/2503.16322"><img src="https://img.shields.io/badge/arXiv-2503.16322-A42C25.svg" alt="arXiv"></a> 
 <a href="https://huggingface.co/Huage001/URAE"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/spaces/Yuanshi/URAE"><img src="https://img.shields.io/badge/🤗_HuggingFace-Space-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/spaces/Yuanshi/URAE_dev"><img src="https://img.shields.io/badge/🤗_HuggingFace-Space-ffbd45.svg" alt="HuggingFace"></a>

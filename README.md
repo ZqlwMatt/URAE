@@ -55,6 +55,8 @@ Text-to-image diffusion models have achieved remarkable progress in recent years
   + transformer = FluxTransformer2DModel.from_pretrained(bfl_repo, subfolder="transformer", torch_dtype=torch.bfloat16)
   - pipe = FluxPipeline.from_pretrained(bfl_repo, torch_dtype=torch.bfloat16)
   + pipe = FluxPipeline.from_pretrained(bfl_repo, transformer=transformer, torch_dtype=torch.bfloat16)
+  + pipe.scheduler.config.use dynamic_shifting = False
+  + pipe.scheduler.config.time shift = 10
   pipe.enable_model_cpu_offload() #save some VRAM by offloading the model to CPU. Remove this if you have enough GPU power
   
   + pipe.load_lora_weights("Huage001/URAE", weight_name="urae_2k_adapter.safetensors")

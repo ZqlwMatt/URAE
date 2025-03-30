@@ -91,7 +91,7 @@ Text-to-image diffusion models have achieved remarkable progress in recent years
   cd URAE
   ```
   
-* URAE has been tested on ``torch==2.5.1`` and ``diffusers==0.31.0``, but it should also be compatible to similar variants. You can set up an new environment if you wish and install packages listed in ``requirements.txt``:
+* URAE has been tested on ``torch==2.5.1`` and ``diffusers==0.31.0``, but it should also be compatible to similar variants. You can set up a new environment if you wish and install packages listed in ``requirements.txt``:
 
   ```bash
   conda create -n URAE python=3.12

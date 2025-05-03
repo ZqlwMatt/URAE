@@ -1,4 +1,4 @@
-# URAE: ~~Your Free FLUX Pro Ultra~~
+# [ICML 2025] URAE: ~~Your Free FLUX Pro Ultra~~
 
 <img src='teaser.jpg' width='100%' />
 <br>
@@ -25,6 +25,8 @@
 * **Easy Training🚀**: URAE tames light-weight adapters with a handful of synthetic data from [FLUX1.1 Pro Ultra](https://blackforestlabs.ai/ultra-home/).
 
 ## 🔥News
+
+**[2025/05/01]** URAE is accepted by ICML2025! 🎉
 
 **[2025/03/20]** We release models and codes for both training and inference of URAE.
 
@@ -192,9 +194,7 @@ If you finds this repo is helpful, please consider citing:
 @article{yu2025urae,
   title     = {Ultra-Resolution Adaptation with Ease},
   author    = {Yu, Ruonan and Liu, Songhua and Tan, Zhenxiong and Wang, Xinchao},
+  journal   = {International Conference on Machine Learning},
   year      = {2025},
-  eprint    = {2503.16322},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
 }
 ```

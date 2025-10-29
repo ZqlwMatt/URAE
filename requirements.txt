@@ -1,3 +1,4 @@
+numpy==1.26.4
 torch>=2.1.0
 transformers
 diffusers==0.31.0
@@ -7,5 +8,5 @@ opencv-python
 peft
 wandb
 jupyter
-patch_conv
+patch_conv # pixi add --pypi "patch_conv @ git+https://github.com/mit-han-lab/patch_conv.git"
 prodigyopt

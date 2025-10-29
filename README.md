@@ -1,6 +1,6 @@
 # [ICML 2025] URAE: ~~Your Free FLUX Pro Ultra~~
 
-<img src='teaser.jpg' width='100%' />
+<img src='assets/teaser.jpg' width='100%' />
 <br>
 
 <a href="https://arxiv.org/abs/2503.16322"><img src="https://img.shields.io/badge/arXiv-2503.16322-A42C25.svg" alt="arXiv"></a> 

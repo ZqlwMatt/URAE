@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=7 python inference_4k.py
+CUDA_VISIBLE_DEVICES=7 python inference_2k.py
